@@ -1,0 +1,13 @@
+# Torch 3D Tracker Project
+
+A small but extensible PyTorch project for:
+
+- monocular depth estimation
+- object tracking in 2D/3D-aware space
+- spatial feature extraction from depth and image context
+
+## Core dependencies
+
+- torch
+- numpy
+
